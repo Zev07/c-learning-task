@@ -12,3 +12,5 @@ Comentários no código explicam o que foi pedido e logo abaixo o código respos
 Este projeto é uma forma de consolidar meu aprendizado enquanto leio o livro. Também espero que ele possa servir de referência para outras pessoas que estão estudando C e gostariam de ver exemplos práticos de código.
 
 Sinta-se à vontade para explorar! :)
+
+<b>OBS: O código também consta exercícios da plataforma W3 Schools e também testes em mini-projetos pessoais, ambos estão especificados em suas respectivas pastas.</b>
