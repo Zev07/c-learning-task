@@ -1,4 +1,4 @@
-# Exercícios do Livro de Linguagem C
+# Exercícios do Livro Linguagem C - Completa e Descomplicada
 Este repositório contém a minha resolução de exercícios do livro Linguagem C - Completa e Descomplicada por André Backes, um material excelente para quem deseja aprender ou reforçar os fundamentos da programação em C.
 
 <h2>Conteúdo do Repositório</h2>
