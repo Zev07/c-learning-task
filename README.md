@@ -11,7 +11,6 @@ O nome dos arquivos segue o padrão ex.c, sua numeração é apenas para indicar
 Comentários no código explicam o que foi pedido e logo abaixo o código resposta ao que foi pedido. OBS: Alguns não possuem o problema pedido totalmente escrito, pois é limitado o que se pode representar no código.
 
 > [!IMPORTANT]
-> Objetivo
 > Este projeto é uma forma de consolidar meu aprendizado enquanto leio o livro. Também espero que ele possa servir de referência para outras pessoas que estão estudando C e gostariam de ver exemplos práticos de código.
 
 Sinta-se à vontade para explorar! :)
