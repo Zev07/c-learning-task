@@ -10,7 +10,7 @@ Cada arquivo corresponde a um exercício ou conjunto de exercícios de um capít
 O nome dos arquivos segue o padrão ex.c, sua numeração é apenas para indicar a ordem em que foram criados, os exercícios são feitos de acordo que forem aparecendo no livro, em diversos capítulos.
 Comentários no código explicam o que foi pedido e logo abaixo o código resposta ao que foi pedido. OBS: Alguns não possuem o problema pedido totalmente escrito, pois é limitado o que se pode representar no código.
 
-> [!OBJETIVO]
+> [!IMPORTANT]
 > Este projeto é uma forma de consolidar meu aprendizado enquanto leio o livro. Também espero que ele possa servir de referência para outras pessoas que estão estudando C e gostariam de ver exemplos práticos de código.
 
 > [!NOTE]
