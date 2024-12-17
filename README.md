@@ -11,14 +11,15 @@ Cada arquivo corresponde a um exercício ou conjunto de exercícios de um capít
 O nome dos arquivos segue o padrão <b>ex.c</b>, sua numeração é apenas para indicar a ordem em que foram criados, os exercícios são feitos de acordo que forem aparecendo no livro, em diversos capítulos.
 </p>
 <p>
-Comentários no código explicam o que foi pedido e logo abaixo o código resposta ao que foi pedido. OBS: Alguns não possuem o problema pedido totalmente escrito, pois é limitado o que se pode representar no código.
+Comentários no código explicam o que foi pedido e logo abaixo o código resposta ao que foi pedido.
 </p>
 
 > [!IMPORTANT]
-> Este projeto é uma forma de consolidar meu aprendizado enquanto leio o livro. Também espero que ele possa servir de referência para outras pessoas que estão estudando C e gostariam de ver exemplos práticos de código.
+>  O repositório também consta exercícios da plataforma W3 Schools e também alguns testes em mini-projetos pessoais, ambos estão especificados em suas respectivas pastas.
+>  Alguns códigos não possuem o problema pedido totalmente escrito como comentário, pois é limitado o que se pode representar em texto no código.
 
 > [!NOTE]
->  O repositório também consta exercícios da plataforma W3 Schools e também testes em mini-projetos pessoais, ambos estão especificados em suas respectivas pastas.</b>
+> Este projeto é uma forma de consolidar meu aprendizado enquanto leio o livro. Também espero que ele possa servir de referência para outras pessoas que estão estudando C e gostariam de ver exemplos práticos de código.</b>
 
 > [!TIP]
 > Sinta-se à vontade para explorar! 👋😄
