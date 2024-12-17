@@ -4,7 +4,8 @@
 Este repositório contém a minha resolução de exercícios do livro Linguagem C - Completa e Descomplicada por André Backes, um material excelente para quem deseja aprender ou reforçar os fundamentos da programação em C.
 
 <h2>Sobre o Repositório</h2>
-Os arquivos neste repositório estão organizados da seguinte forma:
+
+<h3>Os arquivos neste repositório estão organizados da seguinte forma:</h3>
 
 Cada arquivo corresponde a um exercício ou conjunto de exercícios de um capítulo do livro.
 O nome dos arquivos segue o padrão ex.c, sua numeração é apenas para indicar a ordem em que foram criados, os exercícios são feitos de acordo que forem aparecendo no livro, em diversos capítulos.
